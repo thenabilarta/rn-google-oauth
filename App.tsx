@@ -13,6 +13,8 @@ const App = () => {
         '884998275312-a7uncal6drt9dsbe9ijf8kfri2clgqso.apps.googleusercontent.com',
       offlineAccess: true,
       forceCodeForRefreshToken: true,
+      iosClientId:
+        '884998275312-erdoago46lhco02gv7dqj9fbjbh7iooi.apps.googleusercontent.com',
     });
   });
 
