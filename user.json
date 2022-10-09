@@ -1,0 +1,16 @@
+{
+  "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImVkMzZjMjU3YzQ3ZWJhYmI0N2I0NTY4MjhhODU4YWE1ZmNkYTEyZGQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI4ODQ5OTgyNzUzMTItN2hkdDZqZm52cXAybnFjdXBzNGpraHU1ZXNvNWZlOHEuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI4ODQ5OTgyNzUzMTItYTd1bmNhbDZkcnQ5ZHNiZTlpamY4a2ZyaTJjbGdxc28uYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDY1Nzk3MTcyMjMyNDI5MTkyNjQiLCJlbWFpbCI6Im5hYmlsZHVtbXllbWFpbEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibmFtZSI6Im5hYmlsIEFydGEiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1M1ZDTnhqRzR1cnU2M2ZsR0xLYjhYZjZHZFN3MEFsUmdLXzVnSUE9czk2LWMiLCJnaXZlbl9uYW1lIjoibmFiaWwiLCJmYW1pbHlfbmFtZSI6IkFydGEiLCJsb2NhbGUiOiJlbiIsImlhdCI6MTY2NTMzODcyNiwiZXhwIjoxNjY1MzQyMzI2fQ.vVjfDVWarBNnklXaqy249ycOKiqwtbnMDZoEqP7nwjD9XrkGB5eDKnQvzT8di-vG6XIt0tlkBgZRMlrRVnNoxYGvRkfhawoUH0PxetF4Rub6juD1PgjiEucO-NbGtgCE0dYIxZ41etVSiFLpq06UpLf3NUG-pPDIgM11_tiOmxRl13fIYGpM-_ILAemDaIlpHVB6XZ3a6UquutwOnkPD399iDB5JMY9AYZZxUzRUQCGCXSOfAGwCVKGkleTR7_hei8r9KkYPo6vQFUzUkmeHOp-HvYVf3qUmG76pwN5qRyvEIBKqdIUmsvVsGtC40wULhrvtYhaLfFl7kU7hz02OPQ",
+  "scopes": [
+    "https://www.googleapis.com/auth/userinfo.email",
+    "https://www.googleapis.com/auth/userinfo.profile"
+  ],
+  "serverAuthCode": "4/0ARtbsJrMyC7vAxuj7_mIJSsRGK0v1xNdayNzydA17DwxyUwlbA1Ogrpo_HGVPwShQA0Gbg",
+  "user": {
+    "email": "nabildummyemail@gmail.com",
+    "familyName": "Arta",
+    "givenName": "nabil",
+    "id": "106579717223242919264",
+    "name": "nabil Arta",
+    "photo": "https://lh3.googleusercontent.com/a/ALm5wu3VCNxjG4uru63flGLKb8Xf6GdSw0AlRgK_5gIA=s96-c"
+  }
+}
